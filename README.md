@@ -1,2 +1,2 @@
 # AuthApplication
-A simple Spring application that utilazes the usage of OAuth2 authorization via GitHub or Google.
+A simple Spring OAuth2 application to sign in via Google or GitHub.
